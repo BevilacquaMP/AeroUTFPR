@@ -1,7 +1,8 @@
 .titulo{
     text-align: center;
     font-size: 40px;
-    background-color: gray;
+    border-radius: 20px;
+    
 }
 
 .meu-bg{
@@ -9,6 +10,10 @@
 }
 
 .meu-card-body{
-    background-color: #cccecf;
     text-align: justify;
+    border-radius: 20px;
+}
+
+.meu-card{
+    border-radius: 20px;
 }
