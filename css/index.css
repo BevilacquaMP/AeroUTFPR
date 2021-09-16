@@ -1,0 +1,14 @@
+.titulo{
+    text-align: center;
+    font-size: 40px;
+    background-color: gray;
+}
+
+.meu-bg{
+    background-color:#80b6cc;
+}
+
+.meu-card-body{
+    background-color: #cccecf;
+    text-align: justify;
+}
