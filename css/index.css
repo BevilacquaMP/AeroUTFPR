@@ -17,3 +17,20 @@
 .meu-card{
     border-radius: 20px;
 }
+
+.meu-nav{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+}
+
+body{
+    padding-top: 40px;
+}
+
+.img-banner{
+    position: relative;
+    height: 100vh;
+}
+
