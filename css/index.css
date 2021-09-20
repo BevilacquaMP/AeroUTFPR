@@ -1,7 +1,7 @@
 .titulo{
     text-align: center;
     font-size: 40px;
-    border-radius: 20px;
+    border-radius: 15px;
     
 }
 
@@ -11,11 +11,11 @@
 
 .meu-card-body{
     text-align: justify;
-    border-radius: 20px;
+    border-radius: 15px;
 }
 
 .meu-card{
-    border-radius: 20px;
+    border-radius: 15px;
 }
 
 .meu-nav{
