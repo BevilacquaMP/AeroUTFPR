@@ -19,10 +19,15 @@
 }
 
 .meu-nav{
+    background-color: #0896b3;
     position: fixed;
     top: 0;
     width: 100%;
     z-index: 1;
+}
+
+.meu-footer{
+    background-color: #0896b3;
 }
 
 body{
